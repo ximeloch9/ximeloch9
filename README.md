@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Maria**
 #### I am **QA Automation Engineer**
-![I am **QA Automation Engineer**](https://github.com/ximeloch9/images/banner.png)
+![I am **QA Automation Engineer**](https://github.com/ximeloch9/ximeloch9/images/banner.png)
 
 I am a highly skilled Test Automation Engineer with expertise in Serenity BDD, Cypress IO, JMeter, and Postman, focused on delivering high-quality software products through automation. With 5 years of experience in quality assurance under agile methodologies, I specialize in both functional and non-functional testing. I have held roles as Product Owner and Project Manager, leading multidisciplinary teams in strategic planning, risk management, and process optimization.
 In addition to designing robust test automation scripts, I improve release cycle times by reducing regression testing and collaborating with QA Analysts and Software Developers. My experience extends to API automation, cloud device/browser providers, and incorporating automated suites into the pipeline. I thrive in agile environments, applying solid coding skills and a strategic mindset to drive efficiency, quality, and innovation.
